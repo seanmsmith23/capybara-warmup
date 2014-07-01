@@ -32,3 +32,11 @@ Write tests for the following scenario:
 
 * [Capybara example specs](https://github.com/gSchool/acceptance-tests-with-sinatra)
 * [Capybara cheatsheet (especially the section on filling out forms)](https://learn.thoughtbot.com/test-driven-rails-resources/capybara.pdf)
+
+## If you finish
+
+We are going to start looking at storing data for user sessions
+in our Sinatra apps today. Here is some reading that will be relevant.
+
+* [Stateless protocol](http://en.wikipedia.org/wiki/Stateless_protocol)
+* [http://www.sinatrarb.com/intro.html#Using%20Sessions](http://www.sinatrarb.com/intro.html#Using%20Sessions)
