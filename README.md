@@ -27,3 +27,8 @@ Write tests for the following scenario:
     * Dinner Choice
 * User submits the form
 * User sees "Thanks for RSVPing!" on the homepage
+
+## Getting Help
+
+* [Capybara example specs](https://github.com/gSchool/acceptance-tests-with-sinatra)
+* [Capybara cheatsheet (especially the section on filling out forms)](https://learn.thoughtbot.com/test-driven-rails-resources/capybara.pdf)
