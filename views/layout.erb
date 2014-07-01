@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>RSVP App</title>
+</head>
+<body>
+<h1>RSVP App</h1>
+
+<% if flash[:notice] %>
+    <p><%= flash[:notice] %>
+<% end %>
+
+<div>
+  <%= yield %>
+</div>
+
+</body>
+</html>

@@ -10,6 +10,7 @@ The RSVP code already exists, you just need to write tests.
 
 * Fork
 * Clone
+* `bundle install`
 * Start the application with `rackup`
 * Peruse the app and poke around
 
@@ -25,8 +26,4 @@ Write tests for the following scenario:
     * Number of guests
     * Dinner Choice
 * User submits the form
-* User sees "Thank you for RSVPing!" on the homepage
-
-## Getting Help
-
-In this warmup, you
+* User sees "Thanks for RSVPing!" on the homepage
